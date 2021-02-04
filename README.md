@@ -21,7 +21,7 @@ Sistema Desktop (VCL / Windows) para Hotelaria de Pequeno Porte (hotéis, motéi
   </tbody>
 </table>
 
-##Descrição
+## Descrição
 Projeto Desenvolvido para Desktop (Windows) em Delphi 10.3.3 Community Edition, utilizando componentes nativos como FireDAC para conexão
 com o banco de dados MySQL e integração c/ PHP e protocolo HTTP para envio de dados via SMTP
 
