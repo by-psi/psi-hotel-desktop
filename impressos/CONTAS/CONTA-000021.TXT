@@ -1,0 +1,48 @@
+HOTEL MODELO LTDA
+RUA DOS TUPIS, 1.743 BELO HORIZONTE MG - (
+CONTROLE DE DIARIAS - v10.3
+RESUMO DA CONTA N.             :     000021
+============================================
+QUARTO/SUITE                   :         04
+ 
+DATA DE ENTRADA                : 08/10/2020
+HORARIO DE ENTRADA             :   16:49:16
+RECEPCAO                       :   GERENCIA
+--------------------------------------------
+DATA DE SAIDA                  : 09/10/2020
+HORARIO DE SAIDA               :   12:08:42
+RECEPCAO                       :   GERENCIA
+--------------------------------------------
+TIPO LOCACAO                   :       HORA
+--------------------------------------------
+HORAS FRANQUIA (LOCACAO)       :   19:19:26
+HORAS EXCEDENTES               :   18:19:26
+--------------------------------------------
+QTD PEDIDO                            VALOR 
+ 
+ 
+TOTAL                            R$    0,00
+--------------------------------------------
+VALOR HORAS FRANQUIA (LOCACAO) : R$   30,00
+VALOR HORAS EXCEDENTES         : R$   95,00
+--------------------------------------------
+TOTAL HORAS USO (FRANQUIA+H.E) : R$  125,00
+TOTAL DE PEDIDOS               : R$    0,00
+EXTRAS/OUTROS SERVICOS         : R$    0,00
+DESCONTOS                      : R$   95,00
+============================================
+VALOR TOTAL DA CONTA           : R$   30,00
+--------------------------------------------
+VR.RECEBIDO EM DINHEIRO        : R$   50,00
+VR.RECEBIDO EM CARTAO          : R$    0,00
+--------------------------------------------
+TROCO A DEVOLVER               : R$   20,00
+--------------------------------------------
+IMPRESSO EM 09/10/2020  (12:09:01)
+
+
+
+
+
+
+

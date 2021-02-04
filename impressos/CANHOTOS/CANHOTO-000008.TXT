@@ -1,0 +1,26 @@
+MOTEL VIP
+RUA DOS TUPIS, 1.743 - (31) 3295-7723
+CONTROLE DE DIARIAS - v7.0
+CONTA N.                       :     000008
+QUARTO/SUITE                   :         05
+============================================
+DATA DE ENTRADA                : 15/08/2020
+HORARIO DE ENTRADA             :   19:17:07
+RECEPCAO                       :    SUPORTE
+SITUACAO DA CONTA              :        TRF
+TIPO DE LOCACAO                :       HORA
+VALOR DA LOCACAO               : R$   40,00
+--------------------------------------------
+VALOR RECEBIDO EM DINHEIRO     : R$    0,00
+VALOR RECEBIDO EM CARTAO       : R$   40,00
+--------------------------------------------
+TOTAL RECEBIDO NA ENTRADA      : R$   40,00
+--------------------------------------------
+IMPRESSO EM 15/08/2020  (19:17:31)
+
+
+
+
+
+
+

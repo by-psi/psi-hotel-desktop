@@ -1,0 +1,37 @@
+A mensagem de erro é a seguinte:
+
+VertrigoServ
+MySQL database server does not work correctly. 
+Check whether other applications use the important port (3306) 
+and terminate them. Moreover *hora local*
+
+Bem, a solução é a seguinte:
+
+1.	Feche o aplicativo Vertrigo.
+2.	Abra a pasta onde dele foi instalado 
+	(ex: C:\Program Files\VertrigoServ\Mysql\).
+3.	Edite o arquivo my.ini com um editor de texto qualquer.
+4.	Localize bem no início dele a linha “port = 3306“. 
+5.	Esta é a porta do MySQL, altere-a para “port = 3307“.
+6.	Salve o arquivo antes de fechá-lo.
+7.	Agora faça o mesmo no arquivo php.ini,
+	edite-o e altere a linha “mysqli.default_port = 3306” para 
+	“mysqli.default_port = 3307“.
+	Caminho do arquivo: C:\Program Files\VertrigoServ\Php\php.ini
+	Salve as alterações.
+	
+	Acesse também o arquivo C:\Program Files\VertrigoServ\Phpmyadmin\config.inc.php e altere
+	a linha $cfg['Servers'][$i]['controlport'] = '3306'; -> '3307'
+
+8.	Reinicie o computador.
+9.	Execute o Vertrigo pela primeira vez como Administrador.
+	Clique sobre o ícone do Vertrigo com o botão direito do mouse.
+	Escolha a opção “Executar como administrador“.
+	
+Feito isso, pronto! 
+O erro irá parar de aparecer e seu MySQL voltará a funcionar normalmente.
+
+Nota: 
+Para editar e salvar o arquivo, seu editor de texto usado, deverá também 
+ser executado como administrador (como os passos 7.1 e 7.2) para 
+“Executar como administrador”.

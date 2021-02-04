@@ -1,0 +1,47 @@
+MOTEL VIP
+RUA DOS TUPIS, 1.743 BELO HORIZONTE MG - (31) 3295-7723
+CONTROLE DE DIARIAS - v7.0
+--------------------------------------------
+EXTRATO-PERIODO DE: 01/01/2020 A 31/12/2020
+============================================
+TOTAL HORAS/PERNOITES/DIARIAS    +  2.705,00
+TOTAL PEDIDOS                    +    356,50
+TOTAL EXTRAS                     +      0,00
+TOTAL DESCONTOS                  +  1.325,00
+--------------------------------------------
+TOTAL BRUTO                      =  1.736,50
+--------------------------------------------
+RECEBIDO EM CARTAO               +      0,00
+RECEBIDO EM DINHEIRO             +  1.886,50
+TROCO DEVOLVIDO                  -    150,00
+--------------------------------------------
+TOTAL LIQUIDO RECEBIDO           =  1.736,50
+--------------------------------------------
+COMISSOES PAGAS                  -      0,00
+REPOSIÇÃO DE CAIXA               -      0,00
+DIFERENÇA DE TROCO               -      0,00
+COMPRAS/OUTRAS DESPESAS          -     56,85
+VALES FUNCIONARIOS               -     30,00
+VALE-TRANSPORTE                  -     19,00
+--------------------------------------------
+TOTAL DAS DESPESAS               =    105,85
+============================================
+RESUMO (01/01/2020 A 31/12/2020) 
+--------------------------------------------
+NUMERO DE DIAS APURADOS: 52 DIAS
+TOTAL LIQUIDO RECEBIDO           +  1.736,50
+TOTAL DAS DESPESAS               -    105,85
+--------------------------------------------
+TOTAL LIQ.ENVIADO                =  1.630,65
+--------------------------------------------
+RECEITA BRUTA/DIA               ->     33,39
+RECEITA LIQUIDA/DIA             ->     31,36
+============================================
+IMPRESSO EM 16/12/2020  (20:42:55)
+
+
+
+
+
+
+

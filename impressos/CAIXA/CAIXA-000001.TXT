@@ -1,0 +1,68 @@
+HOTEL MODELO LTDA
+RUA DOS TUPIS, 1.743 BELO HORIZONTE MG - (
+CONTROLE DE DIARIAS - v10.3
+RESUMO DA CAIXA N.  : 000001
+============================================
+FUNCIONARIO/RECEPCAO: SUPORTE
+DATA/HORA (ENTRADA) : 15/09/2020 15:01:23
+DATA/HORA (SAIDA  ) : 18/09/2020 12:29:50
+============================================
+1. CONTAS RECEBIDAS TURNO ANTERIOR          
+ 
+CONTA  AP  TIPO      ST RECEPCAO TOTAL      
+--------------------------------------------
+============================================
+2. CONTAS FECHADAS E RECEBIDAS TURNO ATUAL  
+ 
+CONTA  AP  TIPO      ST RECEPCAO TOTAL      
+--------------------------------------------
+000001 05  HORA      F  SUPORTE  R$   79,00
+000002 02  HORA      F  GERENCIA R$   68,50
+000003 04  HORA      F  GERENCIA R$   42,00
+000004 01  HORA      F  GERENCIA R$   48,00
+000005 02  HORA      F  GERENCIA R$   45,00
+000006 03  HORA      F  GERENCIA R$   35,00
+000007 07  PERNOITE  F  GERENCIA R$   50,00
+000008 05  HORA      F  GERENCIA R$   95,00
+000009 02  HORA      F  GERENCIA R$   95,00
+============================================
+3. CONTAS EM ABERTO TURNO ATUAL             
+ 
+CONTA  AP  TIPO      ST RECEPCAO TOTAL      
+--------------------------------------------
+============================================
+VALOR RECEBIDO EM CARTAO       : R$    0,00
+VALOR RECEBIDO EM DINHEIRO     : R$  557,50
+--------------------------------------------
+TOTAL RECEBIDO CARTAO+DINHEIRO : R$  557,50
+TROCO DE CAIXA RECEBIDO        : R$  100,00
+TROCO DE CAIXA DEIXADO         : R$  100,00
+============================================
+RESUMO P/ENVIO VALOR LIQUIDO EM DINHEIRO    
+--------------------------------------------
++ CAIXA RECEBIDO EM DINHEIRO   : R$  557,50
+--------------------------------------------
+- COMISSAO S/ VENDAS           : R$    0,00
+- REPOSICAO P/ TROCO DE CAIXA  : R$    0,00
+- DIF.OU DEVOLUÇÃO DE TROCO    : R$    0,00
+- DESPESAS CONF.NOTAS DIVERSAS : R$    0,00
+- VALES/RETIRADAS FUNCIONARIOS : R$    0,00
+- VALE TRANSPORTE              : R$    0,00
+--------------------------------------------
++ VALOR LIQ.P/ENVIAR (DINHEIRO): R$  557,50
++ RECEBIDO EM CARTÃO (DEB/CRED): R$    0,00
+--------------------------------------------
+= TOTAL LIQUIDO DESTE CAIXA    : R$  557,50
+============================================
+VISTO/ASSINATURA DO FUNCIONARIO: 
+ 
+ 
+--------------------------------------------
+IMPRESSO EM 18/09/2020  (12:29:58)
+
+
+
+
+
+
+

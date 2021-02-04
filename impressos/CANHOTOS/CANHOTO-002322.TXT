@@ -1,0 +1,26 @@
+MOTEL VIP
+RUA DOS TUPIS, 1.743 - (31) 0000-0000
+CONTROLE DE DIARIAS - v7.0
+CONTA N.                       : 002322
+QUARTO/SUITE                   : 08
+============================================
+DATA DE ENTRADA                : 11/05/2020
+HORARIO DE ENTRADA             : 20:47:45
+RECEPCAO                       : DIARISTA
+SITUACAO                       : FECHADA
+TIPO DE LOCACAO                : PERNOITE
+VALOR DA LOCACAO               : R$ 50,00
+--------------------------------------------
+VALOR RECEBIDO EM DINHEIRO     : R$ 50,00
+VALOR RECEBIDO EM CARTAO       : R$  0,00
+--------------------------------------------
+TOTAL RECEBIDO NA ENTRADA      : R$ 50,00
+--------------------------------------------
+IMPRESSO EM 13/05/2020  (09:05:16)
+
+
+
+
+
+
+

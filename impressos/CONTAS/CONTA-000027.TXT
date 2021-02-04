@@ -1,0 +1,48 @@
+MOTEL VIP
+RUA DOS TUPIS, 1.743 BELO HORIZONTE MG - (
+CONTROLE DE DIARIAS - v10.3
+RESUMO DA CONTA N.             :     000027
+============================================
+QUARTO/SUITE                   :         02
+ 
+DATA DE ENTRADA                : 04/11/2020
+HORARIO DE ENTRADA             :   10:38:47
+RECEPCAO                       :    SUPORTE
+--------------------------------------------
+DATA DE SAIDA                  : 04/11/2020
+HORARIO DE SAIDA               :   12:54:01
+RECEPCAO                       :   GERENCIA
+--------------------------------------------
+TIPO LOCACAO                   :       HORA
+--------------------------------------------
+HORAS FRANQUIA (LOCACAO)       :   02:15:14
+HORAS EXCEDENTES               :   01:15:14
+--------------------------------------------
+QTD PEDIDO                            VALOR 
+ 
+ 
+TOTAL                            R$   13,50
+--------------------------------------------
+VALOR HORAS FRANQUIA (LOCACAO) : R$   35,00
+VALOR HORAS EXCEDENTES         : R$   10,00
+--------------------------------------------
+TOTAL HORAS USO (FRANQUIA+H.E) : R$   45,00
+TOTAL DE PEDIDOS               : R$   13,50
+EXTRAS/OUTROS SERVICOS         : R$    0,00
+DESCONTOS                      : R$    0,00
+============================================
+VALOR TOTAL DA CONTA           : R$   58,50
+--------------------------------------------
+VR.RECEBIDO EM DINHEIRO        : R$   58,50
+VR.RECEBIDO EM CARTAO          : R$    0,00
+--------------------------------------------
+TROCO A DEVOLVER               : R$    0,00
+--------------------------------------------
+IMPRESSO EM 04/11/2020  (12:54:23)
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+GUIA BÁSICO DE INSTALAÇÃO
+SISTEMA DE AUTOMAÇÃO PARA HOTELARIA DE PEQUENO PORTE (HOTÉIS, MOTÉIS E POUSADAS)
+PSI-HOTEL v10.3
+
+Guia de Instalação simplificado 
+
+Copiando e descompactando o arquivo "PSI-HOTEL.ZIP"
+
+1. 	Baixe e descompacte o arquivo "psi_hotel.zip" em uma pasta local:
+
+	C:\psi-software\psi_hotel\
+	
+2. 	Caso ainda não tenha instalado o MySQL, será necessário baixar e instalar um dos servidores locais disponíveis no site: 
+
+	install_WampServer.exe ou 
+	install_VertrigoServ.exe
+	
+3. 	Antes de executar o PSI-HOTEL.EXE pela primeira vez, é necessário criar e configurar o banco "psi_hotel" no MySQL, executando o script de criação 
+do banco de dados que se encontra no diretório da aplicação: 
+
+	C:\psi-software\psi_hotel\install_db.bat
+
+Executando o sistema PSI-HOTEL v10.3
+
+4.	Crie um atalho na sua área de trabalho com o nome "PSI-HOTEL v10.3" para o aplicativo que se encontra no diretório da aplicação:
+
+	C:\psi-software\psi_hotel\psi_hotel.exe 
+	
+5.	Clique no atalho "PSI-HOTEL v10.3" para executar o sistema, selecione o usuário "GERENTE", digite a senha "1259" para entrar 
+no sistema. 
+
+6. copie o arquivo 'libmysql.dll' para a pasta 'C:\Program Files\MySQL\MySQL Server 5.1\bin'
+
+7. leia as instruções da porta 3306 caso haja erro em '\mysql\Ajuste da porta 3306 - 3307.txt'
+
+
+GUIA RÁPIDO - CONTROLE DE DIÁRIAS (OPERACIONAL) 
+
+- Clique no primeiro botão "CONTROLE DE DIARIAS" localizado à esquerda, no canto superior da tela logo abaixo do Menu Principal.
+- Sempre antes de começar o turno, o usuário da Recepção deverá 
+entrar com seu respectivo login e senha, e em seguida clicando no botão
+"ABRIR TURNO"
+- Ao encerrar o turno, o usuário deverá clicar no botão "FECHAR O TURNO" 
+e informar os valores de despesas e saídas nos campos indicados
+- Utilize o mouse ou as setas para cima ou para baixo para selecionar o 
+quarto/apto desejado antes de qualquer uma destas operações:
+
+F2 - ABRIR CONTA
+------------------------------------------------
+F4 - LANCAR PEDIDOS
+------------------------------------------------
+F3 - FECHAR CONTA
+------------------------------------------------
+F6 - TRANSFERIR QUARTO (LIMITE TOLERANCIA)
+------------------------------------------------
+F7 - OK
+F8 - CANCELA
+------------------------------------------------
+F10 - LIBERAR QUARTO DA ARRUMAÇÃO
+
+
+IMPORTANTE!
+O software é distribuído gratuitamente com licença de uso por prazo indeterminado, mas para configurações mais avançadas 
+e assistência remota, recomenda-se fazer a assinatura do serviço de Suporte Técnico Remoto, mais informações no site: www.psi-software.com.br 
+ou se preferir entrar em contato diretamente conosco, ligue para (31) 98410-7540 e fale com Ezequias Martins.
+

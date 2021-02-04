@@ -1,0 +1,69 @@
+HOTEL MODELO LTDA
+RUA DOS TUPIS, 1.743 BELO HORIZONTE MG - (
+CONTROLE DE DIARIAS - v10.3
+RESUMO DA CAIXA N.  : 000002
+============================================
+FUNCIONARIO/RECEPCAO: SUPORTE
+DATA/HORA (ENTRADA) : 18/09/2020 12:30:07
+DATA/HORA (SAIDA  ) : 05/10/2020 21:16:25
+============================================
+1. CONTAS RECEBIDAS TURNO ANTERIOR          
+ 
+CONTA  AP  TIPO      ST RECEPCAO TOTAL      
+--------------------------------------------
+============================================
+2. CONTAS FECHADAS E RECEBIDAS TURNO ATUAL  
+ 
+CONTA  AP  TIPO      ST RECEPCAO TOTAL      
+--------------------------------------------
+000010 01  HORA      F  GERENCIA R$   58,00
+000011 03  HORA      F  GERENCIA R$   88,00
+000012 01  HORA      F  GERENCIA R$   30,00
+000013 03  HORA      F  GERENCIA R$   35,00
+000014 06  HORA      F  GERENCIA R$   30,00
+000015 07  HORA      F  GERENCIA R$   30,00
+000016 03  HORA      F  GERENCIA R$   60,50
+000017 07  HORA      F  GERENCIA R$  106,00
+000018 05  HORA      F  GERENCIA R$   35,00
+============================================
+3. CONTAS EM ABERTO TURNO ATUAL             
+ 
+CONTA  AP  TIPO      ST RECEPCAO TOTAL      
+--------------------------------------------
+000020 03  HORA      A  GERENCIA R$   50,00
+============================================
+VALOR RECEBIDO EM CARTAO       : R$    0,00
+VALOR RECEBIDO EM DINHEIRO     : R$  472,50
+--------------------------------------------
+TOTAL RECEBIDO CARTAO+DINHEIRO : R$  472,50
+TROCO DE CAIXA RECEBIDO        : R$  100,00
+TROCO DE CAIXA DEIXADO         : R$  100,00
+============================================
+RESUMO P/ENVIO VALOR LIQUIDO EM DINHEIRO    
+--------------------------------------------
++ CAIXA RECEBIDO EM DINHEIRO   : R$  472,50
+--------------------------------------------
+- COMISSAO S/ VENDAS           : R$    0,00
+- REPOSICAO P/ TROCO DE CAIXA  : R$    0,00
+- DIF.OU DEVOLUÇÃO DE TROCO    : R$    0,00
+- DESPESAS CONF.NOTAS DIVERSAS : R$   41,35
+- VALES/RETIRADAS FUNCIONARIOS : R$   20,00
+- VALE TRANSPORTE              : R$    9,00
+--------------------------------------------
++ VALOR LIQ.P/ENVIAR (DINHEIRO): R$  402,15
++ RECEBIDO EM CARTÃO (DEB/CRED): R$    0,00
+--------------------------------------------
+= TOTAL LIQUIDO DESTE CAIXA    : R$  402,15
+============================================
+VISTO/ASSINATURA DO FUNCIONARIO: 
+ 
+ 
+--------------------------------------------
+IMPRESSO EM 06/10/2020  (15:02:12)
+
+
+
+
+
+
+
