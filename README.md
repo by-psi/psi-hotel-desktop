@@ -1,7 +1,7 @@
 <img src="psi-software.png" width="100"><br>
 ## PSI-HOTEL DESKTOP v10.3
-Sistema Desktop (VCL) para Hotelaria de Pequeno Porte (hotéis, motéis e pousadas)<br>
-Desenvolvido em Delphi 10.3.3 Rio c/ MySQL<br>
+Sistema Desktop (VCL / Windows) para Hotelaria de Pequeno Porte (hotéis, motéis e pousadas)<br>
+Desenvolvido em Delphi 10.3.3 Rio CE c/ MySQL (utilizando componentes nativos)<br>
 <table>
   <tbody>
     <tr>
