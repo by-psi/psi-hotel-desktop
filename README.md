@@ -5,17 +5,12 @@ Sistema Desktop (VCL / Windows) para Hotelaria de Pequeno Porte (hotéis, motéi
   <tbody>
     <tr>
       <td><img src="Imagens/t1.png" class="responsive"></td>
-      <td><img src="Imagens/t2.png" class="responsive"></td>
       <td><img src="Imagens/t3.png" class="responsive"></td>
-    </tr>
-    <tr>
-      <td><img src="Imagens/t4.png" class="responsive"></td>
       <td><img src="Imagens/t5.png" class="responsive"></td>
-      <td><img src="Imagens/t6.png" class="responsive"></td>
     </tr>
     <tr>
+      <td><img src="Imagens/t6.png" class="responsive"></td>
       <td><img src="Imagens/t7.png" class="responsive"></td>
-      <td><img src="Imagens/t8.png" class="responsive"></td>
       <td><img src="Imagens/t9.png" class="responsive"></td>
     </tr>
   </tbody>
